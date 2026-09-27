@@ -1,0 +1,20 @@
+AI Engineer Intern - AIVI Intelligence
+
+About the role:
+You will build production LLM features for our campus placement platform: resume parsing,
+JD matching, and structured scorecards.
+
+Required:
+- Python
+- Experience calling LLM APIs (Gemini or OpenAI)
+- Prompt engineering and structured (JSON) outputs
+- REST API development (FastAPI or Flask)
+- Git
+
+Preferred:
+- RAG pipelines and vector databases
+- Docker
+- Evaluation of LLM outputs (hallucination testing)
+- Experience with Indian-language or code-mixed text
+
+Education: B.E./B.Tech in CS, AI/ML or related (2026/2027 batch).

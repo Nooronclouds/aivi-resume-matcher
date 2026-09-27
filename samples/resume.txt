@@ -1,0 +1,16 @@
+ARJUN RAO
+B.E. Artificial Intelligence & Machine Learning, 2027 | CGPA 8.2
+
+SKILLS
+Python, Java, FastAPI, LangChain, Gemini API, ChromaDB, PostgreSQL, Git, GitHub
+
+PROJECTS
+Campus Helpdesk RAG Bot
+- Built a retrieval-augmented chatbot over college circulars using LangChain, Gemini API and ChromaDB.
+- Exposed it through a FastAPI service with JSON responses consumed by a React frontend.
+
+Expense Tracker API
+- REST API in FastAPI + PostgreSQL with JWT authentication and pagination.
+
+EXPERIENCE
+Hackathon finalist, Smart India Hackathon 2025 - built a multi-agent triage prototype.

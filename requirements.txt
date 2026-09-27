@@ -1,0 +1,8 @@
+google-genai>=1.30
+pydantic>=2.6
+pypdf>=4.0
+python-dotenv>=1.0
+# dev / tools
+pytest>=8.0
+reportlab>=4.0
+pillow>=10.1

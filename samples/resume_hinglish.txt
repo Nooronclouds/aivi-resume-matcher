@@ -1,0 +1,9 @@
+SNEHA PATIL - B.Tech CSE 2027
+
+Skills: Python, Flask, Git, thoda Docker
+
+Projects:
+Maine ek resume screening tool banaya jisme Gemini API se resume ko JD ke saath compare karte hain,
+aur output JSON format mein aata hai. Backend Flask mein likha, REST endpoints ke saath.
+RAG ke baare mein padha hai lekin abhi tak koi project nahi kiya.
+College fest ke liye Hindi-English mixed feedback ka sentiment analysis bhi kiya tha.
